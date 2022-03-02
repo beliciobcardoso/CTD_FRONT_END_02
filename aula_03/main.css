@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #aaaaaa;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 2.5rem;
+}
+
+.box{
+    text-align: end;
+    margin-top: 1rem;
+    padding-right: 1rem ;
+    font-size: 2.5rem;
+    width: 16rem;
+    height: 3rem;
+    background-color: #fff;
+}
+
+.boxMain{
+    background-color: #fafafa;
+    margin-top: 1rem;
+}
+
+.LineBox{
+    display: flex;
+}
+
+.LineBox p {
+    text-align: center;
+    border: solid ;
+    margin: 0.5rem;
+    font-size: 50px;
+    cursor: pointer;
+    width: 3rem;
+}
+
+.LineBox p:hover{
+    background-color: #aaaaaa;
+}
+
+button{
+    padding: 1rem;
+    font-size: 1rem;
+    cursor: pointer;
+    border-radius: 1rem;
+    border: none;
+    font-weight: 900;
+}
+
+button:hover{
+    background-color: green;
+    color: #fff;
+   
+}
