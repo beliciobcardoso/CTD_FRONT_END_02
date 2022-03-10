@@ -34,6 +34,16 @@ let posts = [
         titulo: "O guepardo",
         texto: "O guepardo, ou chita (Acinonyx jubatus) é um membro atípico da família felina. É o único representante vivo do gênero Acinonyx. Ele caça graças à sua visão e grande velocidade. É o animal terrestre mais rápido do mundo, atingindo uma velocidade máxima de 115 km/h em corridas de até quinhentos metros.",
         imagem: "./imagens/chita.jpg"
+    },
+    {
+        titulo: "Maine Coon",
+        texto: "Todas os gatos fotografados são da raça Maine Coon, originária dos Estados Unidos e considerada a raça americana de pelo longo mais antiga, além de ser a maior de todas as raças de gato do mundo. Também conhecido como ‘gigante gentil’, apesar do tamanho este costuma ser um dos gatos mais dóceis do mundo.",
+        imagem: "./imagens/maine_coon.jpg"
+    },
+    {
+        titulo: "Onça Pintada",
+        texto: "A onça-pintada (Panthera onca) são animais carnívoros que apresentam corpo e cauda com pelo curto, as patas são adaptadas a vida cursorial, o focinho é curto e as orelhas pequenas e arredondadas. Os sentidos mais apurados são a visão e a audição, apesar do olfato também ser bem desenvolvido, quando comparado com outros animais, apresenta uma inferioridade. A mandíbula e os dentes são bem fortes, o que lhe permite a captura de animais maiores do que eles. O comprimento total (cabeça à cauda) é de até 2,70 metros e pesa entre 35 kg e 158 kg. Sua pelagem varia do amarelo-claro ao castanho e é caracterizada por manchas pretas em.",
+        imagem: "./imagens/onca_pintada.jpg"
     }
 ]
 
